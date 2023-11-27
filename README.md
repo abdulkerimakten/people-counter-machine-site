@@ -1,5 +1,4 @@
 # people-counter-machine-site
-# People Counter App
 
 A simple web application for counting the number of people entering a train station.
 
