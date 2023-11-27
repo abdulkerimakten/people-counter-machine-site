@@ -25,4 +25,4 @@ This web app allows users to keep track of the number of people entering a train
 
 ## Preview
 
-[Global Preview](<your-project-link>)
+[Global Preview](https://people-counter-machine-site.netlify.app)
